@@ -1,0 +1,95 @@
+
+## MAS - ryan@whaley.co
+* day one
+* fantastical 2
+* byword
+* pixelmator
+* soulver
+* keynote
+* numbers
+* pages
+* xcode(?)
+* somafm
+
+## MAS - staff@pharmgkb.org
+* bettersnaptool
+* tweetbot
+* transmit
+* marked 2
+* sketch 3
+
+## brew
+* awscli
+* fdupes
+* ffmpeg
+* git
+* gradle
+* jq
+* lame
+* mas
+* maven
+* node
+* openssl
+* pandoc
+* tomcat-native
+* unrar
+* wget
+* youtube-dl
+
+## brew cask
+* 1password
+* alfred
+* atom                
+* audacity
+* box-sync           
+* caffeine
+* coconutbattery
+* cyberduck
+* dash
+* datagrip
+* disk-inventory-x
+* dropbox
+* google-chrome
+* gpgtools
+* handbrake
+* intellij-idea
+* iterm2          
+* java                
+* libreoffice         
+* netnewswire
+* omnifocus
+* postman
+* postgres
+* skype
+* slack
+* sourcetree
+* subler
+* superduper
+* transmission
+* vlc
+* virtualbox
+* yed
+
+## npm
+* bower
+* gist-cli
+* gulp
+* markdown-pdf
+* markdown-styles
+* pageres-cli
+* surge
+* tldr
+
+## non-automated
+* firefox developer edition
+* MS Office
+* PGKB PathVisio
+
+
+## personal
+* ps4 remote play
+* brew cask: openemu
+* brew cask: steam
+* brew cask: sequential          
+* brew cask: whatsapp
+* brew cask: xld
