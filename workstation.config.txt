@@ -1,3 +1,11 @@
+# New workstation configuration
+
+1. Copy keys
+2. setup brew.sh
+	* setup `brew cask`
+3. make new `pharmgkb` directory
+4. to checkouts into `pharmgkb`
+
 
 ## MAS - ryan@whaley.co
 * day one
@@ -53,7 +61,8 @@
 * gpgtools
 * handbrake
 * intellij-idea
-* iterm2          
+* itsycal
+* iterm2
 * java                
 * libreoffice         
 * netnewswire
