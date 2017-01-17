@@ -9,14 +9,9 @@
 
 ## MAS - ryan@whaley.co
 * day one
-* fantastical 2
 * byword
 * pixelmator
 * soulver
-* keynote
-* numbers
-* pages
-* xcode(?)
 * somafm
 
 ## MAS - staff@pharmgkb.org
