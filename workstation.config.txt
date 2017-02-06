@@ -6,13 +6,8 @@
 3. make new `pharmgkb` directory
 4. to checkouts into `pharmgkb`
 
+check out the `Brewfile` for brew, cask, and mas installs.
 
-## MAS - ryan@whaley.co
-* day one
-* byword
-* pixelmator
-* soulver
-* somafm
 
 ## MAS - staff@pharmgkb.org
 * bettersnaptool
@@ -20,63 +15,12 @@
 * transmit
 * marked 2
 * sketch 3
-* soulver
 
-## brew
-* awscli
-* fdupes
-* ffmpeg
-* git
-* gradle
-* jq
-* lame
-* mas
-* maven
-* node
-* openssl
-* pandoc
-* tomcat-native
-* unrar
-* wget
-* youtube-dl
 
-## brew cask
-* 1password
-* alfred
-* atom                
-* audacity
-* bbedit
-* box-sync
-* caffeine
-* coconutbattery
-* cyberduck
-* dash
-* datagrip
-* disk-inventory-x
-* dropbox
-* google-chrome
-* gpgtools
-* handbrake
-* intellij-idea
-* itsycal
-* iterm2
-* java                
-* libreoffice         
-* netnewswire
-* omnifocus
-* postman
-* postgres
-* skype
-* slack
-* sourcetree
-* subler
-* superduper
-* transmission
-* vlc
-* virtualbox
-* yed
+## npm globals
 
-## npm
+these should be install with npm install -g *package*
+
 * bower
 * gist-cli
 * gulp
@@ -84,7 +28,7 @@
 * markdown-styles
 * pageres-cli
 * surge
-* tldr
+
 
 ## non-automated
 * firefox developer edition
@@ -96,6 +40,6 @@
 * ps4 remote play
 * brew cask: openemu
 * brew cask: steam
-* brew cask: sequential          
+* brew cask: sequential
 * brew cask: whatsapp
 * brew cask: xld
