@@ -6,6 +6,7 @@ tap 'caskroom/versions'
 
 cask 'java'
 
+brew 'ant'
 brew 'awscli'
 brew 'fdupes'
 brew 'ffmpeg'
@@ -24,6 +25,7 @@ brew 'tomcat-native'
 brew 'unrar'
 brew 'wget'
 brew 'youtube-dl'
+brew 'ansible'
 
 cask '1password'
 cask 'alfred'
