@@ -17,6 +17,7 @@
 [core]
         excludesfile = ~/.gitignore
         editor = bbedit
+        autocrlf = input
 [apply]
         whitespace = nowarn
 [mergetool]
@@ -35,11 +36,11 @@
         name = Ryan Whaley
         email = whaleyr@pharmgkb.org
 [difftool "sourcetree"]
-        cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-        path =
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
 [mergetool "sourcetree"]
-        cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-        trustExitCode = true
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
 [commit]
         template = /Users/whaleyr/.stCommitMsg
 [filter "lfs"]
